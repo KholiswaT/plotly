@@ -3,14 +3,12 @@ https://kholiswat.github.io/plotly/
 
 ### Code for Interactive Website
 
-This website includes graphical data for highest acclaimed movies.
+This website includes graphical rankings of the highest critically acclaimed movies from a selected dataset.
 
 
 
-### Jekyll Themes
+#### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KholiswaT/plotly/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This website will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KholiswaT/plotly/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
